@@ -1,0 +1,15 @@
+body {
+  background-color: yellow;
+}
+
+h1 {
+  color: pink;
+  margin-left: 20px;
+}
+
+#ramen {
+  padding: 50px;
+  border: 15px dotted red;
+  background: orange;
+  width: 1000px;
+}
